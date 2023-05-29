@@ -1,0 +1,19 @@
+*
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(117, 153, 133);
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+.card {
+    background-color:slateblue;
+    border-radius:15px;
+}
